@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/room_name"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:text="E"
+        android:padding="5dp"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="@drawable/background"
+        android:layout_width="50dp"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/room_capacity"
+        android:text="Enchated Forest"
+        android:textSize="20sp"
+        android:padding="15dp"
+        android:textColor="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/type"
+        android:layout_marginTop="20dp"
+        android:text="100元"
+        android:layout_weight="1"
+        android:gravity="end"
+        android:textSize="20sp"
+        android:layout_marginRight="15dp"
+        android:textColor="#000000"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" />
+</LinearLayout>
