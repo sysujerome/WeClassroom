@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\workplace\\ClassroomManage\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\26f96dd25d743ff57ddc157a0c58a61a9409c04a\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\workplace\\ClassroomManage\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\26f96dd25d743ff57ddc157a0c58a61a9409c04a\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\workplace\\ClassroomManage\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\26f96dd25d743ff57ddc157a0c58a61a9409c04a\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\workplace\\ClassroomManage\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\26f96dd25d743ff57ddc157a0c58a61a9409c04a\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\workplace\\ClassroomManage\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\26f96dd25d743ff57ddc157a0c58a61a9409c04a\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\workplace\\ClassroomManage\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\26f96dd25d743ff57ddc157a0c58a61a9409c04a\\output\\res\\layout-v11\\notification_media_action.xml"
+    }
+]
