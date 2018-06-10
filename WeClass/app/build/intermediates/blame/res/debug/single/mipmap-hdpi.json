@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\checked.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-hdpi\\checked.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\waiting.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-hdpi\\waiting.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\empty_star.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-hdpi\\empty_star.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\back.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\error.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-hdpi\\error.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\apply.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-hdpi\\apply.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

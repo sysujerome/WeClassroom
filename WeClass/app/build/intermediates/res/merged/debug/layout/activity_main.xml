@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.asus.weclass.MainActivity">
+
+    <Button
+    android:id="@+id/stu_view_class"
+    android:layout_width="0dp"
+    android:layout_height="180dp"
+    android:text="查看教室列表"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    android:visibility="invisible"/>
+
+    <Button
+    android:id="@+id/stu_view_appoint"
+    android:layout_width="0dp"
+    android:layout_height="180dp"
+    android:text="查看预约"
+    app:layout_constraintTop_toBottomOf="@+id/stu_view_class"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    android:visibility="invisible"/>
+
+    <Button
+    android:id="@+id/stu_passchange"
+    android:layout_width="0dp"
+    android:layout_height="180dp"
+    android:text="修改密码"
+    app:layout_constraintTop_toBottomOf="@+id/stu_view_appoint"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    android:visibility="invisible"/>
+
+
+
+    <Button
+    android:id="@+id/man_view_class"
+    android:layout_width="0dp"
+    android:layout_height="180dp"
+    android:text="查看教室列表"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent" />
+
+    <Button
+    android:id="@+id/man_view_appoint"
+    android:layout_width="0dp"
+    android:layout_height="180dp"
+    android:text="查看申请列表"
+    app:layout_constraintTop_toBottomOf="@+id/man_view_class"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"/>
+
+    <Button
+    android:id="@+id/man_passchange"
+    android:layout_width="0dp"
+    android:layout_height="180dp"
+    android:text="修改密码"
+    app:layout_constraintTop_toBottomOf="@+id/man_view_appoint"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"/>
+
+</android.support.constraint.ConstraintLayout>

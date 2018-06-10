@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\error.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-mdpi\\error.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\checked.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-mdpi\\checked.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workplace\\WeClass\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\waiting.png",
+        "source": "F:\\workplace\\WeClass\\app\\src\\main\\res\\mipmap-mdpi\\waiting.png"
+    }
+]

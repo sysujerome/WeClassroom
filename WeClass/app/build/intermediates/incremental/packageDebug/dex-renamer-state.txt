@@ -1,0 +1,7 @@
+#Sun Jun 10 16:04:58 CST 2018
+base.0=F\:\\workplace\\WeClass\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5051ccf325c3b4a0cd4679a6df2315725e55ece0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\workplace\\WeClass\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_86fb072458df138af65bdd7117a7d2ffeafa2454\\classes.dex
+base.1=F\:\\workplace\\WeClass\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_86fb072458df138af65bdd7117a7d2ffeafa2454
+file.0=F\:\\workplace\\WeClass\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5051ccf325c3b4a0cd4679a6df2315725e55ece0\\classes.dex
